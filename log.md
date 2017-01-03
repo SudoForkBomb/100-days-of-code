@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+<!-- Examples
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -27,4 +28,12 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
+### Day 0: Janurary 2nd, 2016
+
+**Today's Progress**: Worked on CTCI problems, and put some thought into what I'll be starting on tomorrow.
+
+**Thoughts:** Trying to figure out where to start with my project and what all I will need to know in order to build it. I think I've settled on working on this
+barcode review app that will allow me to scan any item in a store and aggregate reviews. Things I need to think about regarding it: UI, database/hosting a server,
+api's for reviews.
