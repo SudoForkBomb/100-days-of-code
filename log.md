@@ -37,3 +37,11 @@
 **Thoughts:** Trying to figure out where to start with my project and what all I will need to know in order to build it. I think I've settled on working on this
 barcode review app that will allow me to scan any item in a store and aggregate reviews. Things I need to think about regarding it: UI, database/hosting a server,
 api's for reviews.
+
+### Day 1: Janurary 3nd, 2016
+
+**Today's Progress**: Researched how to open up the camera to scan a barcode. Managed to get a few lines written but was unable to get the app to scan any barcodes.
+
+**Thoughts:** So I was kind of expecting this hour to go something like this: I would start writing some lines of code, realize I don't know how to do something, quickly look it up then jump right back into the code, rinse and repeat. It was something like that, where I opened up Android Studio to the project I started, figured out my next step, then spent 2 hours researching with maybe a line of code to show for it. So I'm realizing that this will be a slower process than I originally thought. Which I also need to realize, is just part of the learning process. I don't know how to do all of this yet, so I will be spending more time researching than coding to begin with.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
