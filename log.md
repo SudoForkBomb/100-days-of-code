@@ -45,3 +45,11 @@ api's for reviews.
 **Thoughts:** So I was kind of expecting this hour to go something like this: I would start writing some lines of code, realize I don't know how to do something, quickly look it up then jump right back into the code, rinse and repeat. It was something like that, where I opened up Android Studio to the project I started, figured out my next step, then spent 2 hours researching with maybe a line of code to show for it. So I'm realizing that this will be a slower process than I originally thought. Which I also need to realize, is just part of the learning process. I don't know how to do all of this yet, so I will be spending more time researching than coding to begin with.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 2: Janurary 4th, 2016
+
+**Today's Progress**: Found a better guide and got a better understanding of the barcode library.
+
+**Thoughts:** I felt like I made a lot more progress compared to yesterday. I managed to get a lot more code down thanks to a guide that helped explain things a bit better. However, I was unable to get the camera to start or detect anything. I believe it may have something to do either the permissions, or the intent. I'll try to focus on more debugging tomorrow.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
