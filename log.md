@@ -30,7 +30,7 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
-### Day 0: Janurary 2nd, 2016
+### Day 0: January 2nd, 2016
 
 **Today's Progress**: Worked on CTCI problems, and put some thought into what I'll be starting on tomorrow.
 
@@ -38,7 +38,7 @@
 barcode review app that will allow me to scan any item in a store and aggregate reviews. Things I need to think about regarding it: UI, database/hosting a server,
 api's for reviews.
 
-### Day 1: Janurary 3nd, 2016
+### Day 1: January 3nd, 2016
 
 **Today's Progress**: Researched how to open up the camera to scan a barcode. Managed to get a few lines written but was unable to get the app to scan any barcodes.
 
@@ -46,10 +46,18 @@ api's for reviews.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 2: Janurary 4th, 2016
+### Day 2: January 4th, 2016
 
 **Today's Progress**: Found a better guide and got a better understanding of the barcode library.
 
 **Thoughts:** I felt like I made a lot more progress compared to yesterday. I managed to get a lot more code down thanks to a guide that helped explain things a bit better. However, I was unable to get the camera to start or detect anything. I believe it may have something to do either the permissions, or the intent. I'll try to focus on more debugging tomorrow.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 3: January 5th, 2016
+
+**Today's Progress**: Fixed the app permission to get the camera working. Added the Retrofit library, and started on the code to pass the UPC number to an API and return the information.
+
+**Thoughts:** Picking up speed now. I was able to quickly find out why my camera wasn't working in the app early today (Had to go into the app's settings and turn on the permission), but wasn't able to work on any code until later tonight. I decided my next step should be to setup RetroFit to call an API and get information about the barcode number. I found a UPC database that I hope will large enough to get any barcode I send it. I'm hoping to be done with the Retrofit part tomorrow, so I can start testing some this weekend.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
