@@ -66,6 +66,15 @@ api's for reviews.
 
 **Today's Progress**: Not as productive as I was hoping. Tried getting Retrofit to work, but was unable to. Need to look do more research into it.
 
-**Thoughts:** I waited too late at night to start working on this, and so I'm struggling with staying awake and trying to remember how I managed to get Retrofit to work when I used it several months ago. I was able to get a little bit of code down, but I'm going to have to do a lot more tomorrow to get things working. 
+**Thoughts:** I waited too late at night to start working on this, and so I'm struggling with staying awake and trying to remember how I managed to get Retrofit to work when I used it several months ago. I was able to get a little bit of code down, but I'm going to have to do a lot more tomorrow to get things working.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 5: January 7th, 2016
+
+**Today's Progress**: Messed around with some of the layout settings and worked on getting Retrofit working.
+
+**Thoughts:** So I'm getting to the point where I realize I need to spend more time in Udacity or looking at some other Android tutorials. I've forgotten a lot of what I learned through the Udacity course and now I'm now spending a lot of time going back through stuff I should know how to do. I'll plan to spend more time in tutorials next week while I work on this.
+As far as progress of my app, Retrofit isn't properly getting the UPC API, so the app is currently crashing whenever I scan a barcode. More to work on tomorrow.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
