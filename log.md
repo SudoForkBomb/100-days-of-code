@@ -78,3 +78,11 @@ api's for reviews.
 As far as progress of my app, Retrofit isn't properly getting the UPC API, so the app is currently crashing whenever I scan a barcode. More to work on tomorrow.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 6: January 8th, 2016
+
+**Today's Progress**: Solved problem 4.9 in "Cracking the Coding Interview."
+
+**Thoughts:** I decided to change up my night a bit and work on the problems in the CTCI book since I'm meeting to go over the problems tomorrow. I managed to solve 4.9, but still need to review the actual solution in the book. I also need to make sure I'm spending enough time going back through the chapters again, especially after not looking at it for a few days.
+
+**Link to Work** [CTCIProblems](https://github.com/SudoForkBomb/CTCIProblems)
