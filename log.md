@@ -86,3 +86,11 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 **Thoughts:** I decided to change up my night a bit and work on the problems in the CTCI book since I'm meeting to go over the problems tomorrow. I managed to solve 4.9, but still need to review the actual solution in the book. I also need to make sure I'm spending enough time going back through the chapters again, especially after not looking at it for a few days.
 
 **Link to Work** [CTCIProblems](https://github.com/SudoForkBomb/CTCIProblems)
+
+### Day 7: January 10th, 2016
+
+**Today's Progress**: Still unsuccessful troubleshooting app. Tried debugging the retrofit portion of the app, but it's still crashing when I scan a barcode. Managed to correct a few lines that would have caused problems later though.
+
+**Thoughts:** Still having trouble with this app. I tried debugging for a bit, and double checked the barcodes I was scanning, but it still doesn't seem to be making the actual call to the API properly. I must still have something wrong with retrofit. I'll try to spend more time learning it tomorrow, and hopefully come back with a better understanding of it. Also contemplating starting a different project...
+
+**Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
