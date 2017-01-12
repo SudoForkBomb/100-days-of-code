@@ -94,3 +94,11 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 **Thoughts:** Still having trouble with this app. I tried debugging for a bit, and double checked the barcodes I was scanning, but it still doesn't seem to be making the actual call to the API properly. I must still have something wrong with retrofit. I'll try to spend more time learning it tomorrow, and hopefully come back with a better understanding of it. Also contemplating starting a different project...
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 8: January 11th, 2016
+
+**Today's Progress**: Fixed retrofit and got the app working!
+
+**Thoughts:** Tired and irritated. Had to add a line this line in order to get it working ".addConverterFactory(GsonConverterFactory.create())". Still a little unsure why I needed it, but I guess now I need to spend more time looking up about JSON and GSON. 
+
+**Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
