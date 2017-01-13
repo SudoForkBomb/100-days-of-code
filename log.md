@@ -110,3 +110,11 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 **Thoughts:** Still a little frustrated with retrofit, but I'm understanding it a little more. I think I'm doing better with troubleshooting and now I'm excited to move forward with working on more design and functionality of the app. I want to try to work on setting the button to trigger the camera to open, and close once it's scanned the barcode.
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 10: January 13th, 2016
+
+**Today's Progress**: Started splitting up my MainActivity file into two Fragments, one for the camera, and the other for the Barcode details. Still pretty broken up at this point, but I'll work on finishing up putting them together tomorrow. I'm sure more troubleshooting will ensue.
+
+**Thoughts:** Started to work on more of the design and functionality of the app. I've had to do a lot of review with my Popular Movies app, since I don't quite remember how to implement Fragments anymore. I need to go back and read more about them and when is the proper time to actually use Fragments over Activities.
+
+**Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
