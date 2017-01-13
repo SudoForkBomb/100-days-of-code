@@ -99,6 +99,14 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 
 **Today's Progress**: Fixed retrofit and got the app working!
 
-**Thoughts:** Tired and irritated. Had to add a line this line in order to get it working ".addConverterFactory(GsonConverterFactory.create())". Still a little unsure why I needed it, but I guess now I need to spend more time looking up about JSON and GSON. 
+**Thoughts:** Tired and irritated. Had to add a line this line in order to get it working ".addConverterFactory(GsonConverterFactory.create())". Still a little unsure why I needed it, but I guess now I need to spend more time looking up about JSON and GSON.
+
+**Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 9: January 12th, 2016
+
+**Today's Progress**: Did a little bit more troubleshooting and discovered the problem with the api call. It seems like it's making the returning with the call just fine, but it's printing an answer before the api call is complete. I think once I do a bit more with the design and function, outside of the api call, things will fall into place fine.
+
+**Thoughts:** Still a little frustrated with retrofit, but I'm understanding it a little more. I think I'm doing better with troubleshooting and now I'm excited to move forward with working on more design and functionality of the app. I want to try to work on setting the button to trigger the camera to open, and close once it's scanned the barcode.
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
