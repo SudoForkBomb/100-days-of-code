@@ -126,3 +126,12 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 **Thoughts:** Need to look into intents and passing the information between Fragments.
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 12: January 16th, 2016
+
+**Today's Progress**: Worked on getting my BarcodeDetailsFragment to try and start the CameraFragment and pass the information of the barcode, through the Activity. I managed to do this using the OnFragmentInteractionListener, and the onAttach method. (https://developer.android.com/training/basics/fragments/communicating.html)
+
+**Thoughts:** Confusing, yes, but I  believe this is the appropriate next step to getting things to work. I start with the BarcodeDetailsFragment in the MainActivity. Then when I click the button, I want it to inflate the CameraFragment, then once it's gotten the barcode, close out this fragment, and return the information to the BarcodeDetailsFragment. I think I'm almost there, but it's more tutorials and testing.
+My only concern with my progress so far, is that I'm starting to feel like I'm looking for what I need to do and hacking it together, instead of following some sort of flow or process. Maybe that's just how things are supposed to be when starting out? Need to find a proper Android book..
+
+**Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
