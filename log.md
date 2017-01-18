@@ -135,3 +135,11 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 My only concern with my progress so far, is that I'm starting to feel like I'm looking for what I need to do and hacking it together, instead of following some sort of flow or process. Maybe that's just how things are supposed to be when starting out? Need to find a proper Android book..
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 13: January 17th, 2016
+
+**Today's Progress**: More progress with communication between BarcodeDetailsFragment to MainActivity to CameraFragment. Crashes when trying to load CameraFragment because there is no container for it, but the fact that the button is actually triggering the CameraFragment to open is a good start.
+
+**Thoughts:** Feel like I'm on the border of understanding what's going on. I'm not helping myself with trying to figure it out as I'm working on it, because it's becoming difficult to figure out how these should work at the same time I'm trying to figure out how to implement things. Trying to jot down a quick flow chart is helping, but I need to spend time to work on the flow chart.
+
+**Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
