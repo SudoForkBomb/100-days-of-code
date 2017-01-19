@@ -143,3 +143,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Feel like I'm on the border of understanding what's going on. I'm not helping myself with trying to figure it out as I'm working on it, because it's becoming difficult to figure out how these should work at the same time I'm trying to figure out how to implement things. Trying to jot down a quick flow chart is helping, but I need to spend time to work on the flow chart.
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 14: January 18th, 2016
+
+**Today's Progress**: Managed to get the CameraFragment to open up when I trigger it with the button from BarcodeDetailsFragment. There still seems to be some cross overlay between the two fragments. I need to double check the CameraFragment class and make sure that there are no errors.
+
+**Thoughts:** Not the most productive night, but I made a small little victory with stopping the app from crashing. I need to go back through and double check the classes and make sure the simple parts are clean and correct.
+
+**Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
