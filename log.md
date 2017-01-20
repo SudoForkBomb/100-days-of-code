@@ -151,3 +151,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Not the most productive night, but I made a small little victory with stopping the app from crashing. I need to go back through and double check the classes and make sure the simple parts are clean and correct.
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 15: January 19th, 2016
+
+**Today's Progress**: Made some changes to the CameraFragment in an attempt to get the camera to display. It's actually showing the correct fragment now, but the button is still in the CameraFragment for some reason.
+
+**Thoughts:** Nothing new to report. More troubleshooting, need to spend more time on this and need to start earlier in the day. Probably going to switch gears tomorrow though and work on CTCI problems.
+
+**Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
