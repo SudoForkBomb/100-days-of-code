@@ -164,6 +164,14 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Today's Progress**: Got things set up and started working on Chapter 5 of Cracking the Coding Interview. Not a whole lot of code written, but got a little bit down.
 
-**Thoughts:** Realized how much I forgot or didn't know about Bit Manipulation. So I'm spending a bit more time leaning than coding for today. 
+**Thoughts:** Realized how much I forgot or didn't know about Bit Manipulation. So I'm spending a bit more time leaning than coding for today.
+
+**Link to Work** [CTCIProblems](https://github.com/SudoForkBomb/CTCIProblems)
+
+### Day 17: January 21th, 2016
+
+**Today's Progress**: Feel like I've pretty much finished solving 5.2. Just need to complete the rest of the code for that problem (Figure out a way to bail out if the number is repeating.)
+
+**Thoughts:** Feel like I've made some progress on trying to learn more/refresh myself on bit manipulation, and mainly, bit conversion. Going to try and meet up with friends tomorrow to try and maybe get some help on the other problems in the chapter.
 
 **Link to Work** [CTCIProblems](https://github.com/SudoForkBomb/CTCIProblems)
