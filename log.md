@@ -159,3 +159,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Nothing new to report. More troubleshooting, need to spend more time on this and need to start earlier in the day. Probably going to switch gears tomorrow though and work on CTCI problems.
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 16: January 20th, 2016
+
+**Today's Progress**: Got things set up and started working on Chapter 5 of Cracking the Coding Interview. Not a whole lot of code written, but got a little bit down.
+
+**Thoughts:** Realized how much I forgot or didn't know about Bit Manipulation. So I'm spending a bit more time leaning than coding for today. 
+
+**Link to Work** [CTCIProblems](https://github.com/SudoForkBomb/CTCIProblems)
