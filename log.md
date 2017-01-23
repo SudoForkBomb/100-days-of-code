@@ -175,3 +175,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Feel like I've made some progress on trying to learn more/refresh myself on bit manipulation, and mainly, bit conversion. Going to try and meet up with friends tomorrow to try and maybe get some help on the other problems in the chapter.
 
 **Link to Work** [CTCIProblems](https://github.com/SudoForkBomb/CTCIProblems)
+
+### Day 18: January 22th, 2016
+
+**Today's Progress**: Not a whole lot. Spent more time trying to solve the problem than actually coding. The nap didn't exactly help either.
+
+**Thoughts:** Got really lazy this weekend and did not accomplish near as much as I had hoped. Still need to finish the rest of these problems by tomorrow, but I'm still struggling with them and I just keep distracting myself with other things. At least I know some more areas I need to focus on. 
+
+**Link to Work** [CTCIProblems](https://github.com/SudoForkBomb/CTCIProblems)
