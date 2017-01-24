@@ -180,6 +180,15 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Today's Progress**: Not a whole lot. Spent more time trying to solve the problem than actually coding. The nap didn't exactly help either.
 
-**Thoughts:** Got really lazy this weekend and did not accomplish near as much as I had hoped. Still need to finish the rest of these problems by tomorrow, but I'm still struggling with them and I just keep distracting myself with other things. At least I know some more areas I need to focus on. 
+**Thoughts:** Got really lazy this weekend and did not accomplish near as much as I had hoped. Still need to finish the rest of these problems by tomorrow, but I'm still struggling with them and I just keep distracting myself with other things. At least I know some more areas I need to focus on.
 
 **Link to Work** [CTCIProblems](https://github.com/SudoForkBomb/CTCIProblems)
+
+### Day 19: January 23th, 2016
+
+**Today's Progress**: Have the fragments working properly and talking to each other through the activity using the FragmentManger and FragmentTransaction. Now I need to work on getting the camera to work again.
+ master
+
+**Thoughts:** Feel good again about working on this. Found a nice, in-depth guide at https://guides.codepath.com/android that gives really good cliffnotes for different Android topics. Went through the section for Fragments and it seemed to really help me understand and get things working tonight.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
