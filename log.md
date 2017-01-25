@@ -192,3 +192,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Feel good again about working on this. Found a nice, in-depth guide at https://guides.codepath.com/android that gives really good cliffnotes for different Android topics. Went through the section for Fragments and it seemed to really help me understand and get things working tonight.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 20: January 24th, 2016
+
+**Today's Progress**: Tried troubleshooting the CameraFragment to get the camera image to show up, and can't figure out why. So I'm still having issues with it. Need to go back and look into the BarcodeScanner stuff.
+
+**Thoughts:** Not really sure why the camera image is not showing up. Thinking it may be related to the class ending, or maybe there is something wrong with how I have the BarcodeScanner or CameraSource set up.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
