@@ -200,3 +200,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Not really sure why the camera image is not showing up. Thinking it may be related to the class ending, or maybe there is something wrong with how I have the BarcodeScanner or CameraSource set up.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 21: January 25th, 2016
+
+**Today's Progress**: Cleaned up the code a bit. No progress made with getting the camera working.
+
+**Thoughts:** Just confused to why it's not working. Can't seem to find a decent tutorial again. More searching and progress tomorrow hopefully.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
