@@ -208,3 +208,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Just confused to why it's not working. Can't seem to find a decent tutorial again. More searching and progress tomorrow hopefully.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 22: January 26th, 2016
+
+**Today's Progress**: Got the CameraView working. I believe something was happening between the RetroFit task, and OnCreateView returning before it was done. This is further confirmed since my txtView is never updated  after scanning a barcode.
+
+**Thoughts:** Need to learn more about Android's Activity and Fragment lifecycles, so that I'm doing these things in the proper order and that I'm able to do them. For some reason I guess that I thought that while the camera was being displayed, it was looping and would update things whenever it scanned something. That wouldn't make sense though since it has to return the view at the end of OnCreateView to even display things. More studying to be done.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
