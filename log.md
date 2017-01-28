@@ -216,3 +216,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Need to learn more about Android's Activity and Fragment lifecycles, so that I'm doing these things in the proper order and that I'm able to do them. For some reason I guess that I thought that while the camera was being displayed, it was looping and would update things whenever it scanned something. That wouldn't make sense though since it has to return the view at the end of OnCreateView to even display things. More studying to be done.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 23: January 27th, 2016
+
+**Today's Progress**: I looked up more about the Fragment lifecycle and decided to add onViewCreated method within CameraFragment. This takes place after onCreateView, so I added my code that takes in the barcode and sets the txtView within here. It successfully worked and I even added it so that it would set the text in txtView to the most recent barcode.
+
+**Thoughts:** Still need to make sure I really understand the lifecycles, especially making sure things are closed or destroyed. My next task I'd like to do is create another Activity/Fragment combo and then pass on the barcode number to them, which will then get the Retrofit treatment and I can display the details of the item.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
