@@ -224,3 +224,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Still need to make sure I really understand the lifecycles, especially making sure things are closed or destroyed. My next task I'd like to do is create another Activity/Fragment combo and then pass on the barcode number to them, which will then get the Retrofit treatment and I can display the details of the item.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 24: January 28th, 2016
+
+**Today's Progress**: Added the new Fragment and Activity and started implementing the new order of process for the app.
+
+**Thoughts:** Nothing too exciting or much. Just worked on getting things implemented. More testing and things tomorrow.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
