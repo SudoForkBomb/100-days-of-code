@@ -232,3 +232,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Nothing too exciting or much. Just worked on getting things implemented. More testing and things tomorrow.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 25: January 29th, 2016
+
+**Today's Progress**: Made a few more changes to the new fragment and making sure it fit and worked in the new order.
+
+**Thoughts:** Same as last night. Nothing too exciting or much. Just worked on getting things implemented. More testing and things tomorrow.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
