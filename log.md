@@ -240,3 +240,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Same as last night. Nothing too exciting or much. Just worked on getting things implemented. More testing and things tomorrow.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 26: January 30th, 2016
+
+**Today's Progress**: Changed the Details layout to output the information from the UPC. Worked on the details fragment starting once the camera has detected a barcode number.
+
+**Thoughts:** Had to speed some time looking at my older app on how to go from one activity to another and then initiate the fragment for the details. Progress has been a little slow, but I'm hoping to pick up  more this week.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
