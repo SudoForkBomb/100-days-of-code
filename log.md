@@ -248,3 +248,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Had to speed some time looking at my older app on how to go from one activity to another and then initiate the fragment for the details. Progress has been a little slow, but I'm hoping to pick up  more this week.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 27: January 31th, 2016
+
+**Today's Progress**: Worked on getting things right with passing the Barcode Number. Testing some tomorrow.
+
+**Thoughts:** Tired. Need to start earlier and be more productive tomorrow.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
