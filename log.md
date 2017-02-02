@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 <!-- Examples
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -10,7 +10,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 0: February 30, 2017 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -30,7 +30,7 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
-### Day 0: January 2nd, 2016
+### Day 0: January 2nd, 2017
 
 **Today's Progress**: Worked on CTCI problems, and put some thought into what I'll be starting on tomorrow.
 
@@ -38,7 +38,7 @@
 barcode review app that will allow me to scan any item in a store and aggregate reviews. Things I need to think about regarding it: UI, database/hosting a server,
 api's for reviews.
 
-### Day 1: January 3nd, 2016
+### Day 1: January 3nd, 2017
 
 **Today's Progress**: Researched how to open up the camera to scan a barcode. Managed to get a few lines written but was unable to get the app to scan any barcodes.
 
@@ -46,7 +46,7 @@ api's for reviews.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 2: January 4th, 2016
+### Day 2: January 4th, 2017
 
 **Today's Progress**: Found a better guide and got a better understanding of the barcode library.
 
@@ -54,7 +54,7 @@ api's for reviews.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 3: January 5th, 2016
+### Day 3: January 5th, 2017
 
 **Today's Progress**: Fixed the app permission to get the camera working. Added the Retrofit library, and started on the code to pass the UPC number to an API and return the information.
 
@@ -62,7 +62,7 @@ api's for reviews.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 4: January 6th, 2016
+### Day 4: January 6th, 2017
 
 **Today's Progress**: Not as productive as I was hoping. Tried getting Retrofit to work, but was unable to. Need to look do more research into it.
 
@@ -70,7 +70,7 @@ api's for reviews.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 5: January 7th, 2016
+### Day 5: January 7th, 2017
 
 **Today's Progress**: Messed around with some of the layout settings and worked on getting Retrofit working.
 
@@ -79,7 +79,7 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 6: January 8th, 2016
+### Day 6: January 8th, 2017
 
 **Today's Progress**: Solved problem 4.9 in "Cracking the Coding Interview."
 
@@ -87,7 +87,7 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 
 **Link to Work** [CTCIProblems](https://github.com/SudoForkBomb/CTCIProblems)
 
-### Day 7: January 10th, 2016
+### Day 7: January 10th, 2017
 
 **Today's Progress**: Still unsuccessful troubleshooting app. Tried debugging the retrofit portion of the app, but it's still crashing when I scan a barcode. Managed to correct a few lines that would have caused problems later though.
 
@@ -95,7 +95,7 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 8: January 11th, 2016
+### Day 8: January 11th, 2017
 
 **Today's Progress**: Fixed retrofit and got the app working!
 
@@ -103,7 +103,7 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 9: January 12th, 2016
+### Day 9: January 12th, 2017
 
 **Today's Progress**: Did a little bit more troubleshooting and discovered the problem with the api call. It seems like it's making the returning with the call just fine, but it's printing an answer before the api call is complete. I think once I do a bit more with the design and function, outside of the api call, things will fall into place fine.
 
@@ -111,7 +111,7 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 10: January 13th, 2016
+### Day 10: January 13th, 2017
 
 **Today's Progress**: Started splitting up my MainActivity file into two Fragments, one for the camera, and the other for the Barcode details. Still pretty broken up at this point, but I'll work on finishing up putting them together tomorrow. I'm sure more troubleshooting will ensue.
 
@@ -119,7 +119,7 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 11: January 14th, 2016
+### Day 11: January 14th, 2017
 
 **Today's Progress**: Nothing exciting, just cleaned up the Fragments some more.
 
@@ -127,7 +127,7 @@ As far as progress of my app, Retrofit isn't properly getting the UPC API, so th
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 12: January 16th, 2016
+### Day 12: January 16th, 2017
 
 **Today's Progress**: Worked on getting my BarcodeDetailsFragment to try and start the CameraFragment and pass the information of the barcode, through the Activity. I managed to do this using the OnFragmentInteractionListener, and the onAttach method. (https://developer.android.com/training/basics/fragments/communicating.html)
 
@@ -136,7 +136,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 13: January 17th, 2016
+### Day 13: January 17th, 2017
 
 **Today's Progress**: More progress with communication between BarcodeDetailsFragment to MainActivity to CameraFragment. Crashes when trying to load CameraFragment because there is no container for it, but the fact that the button is actually triggering the CameraFragment to open is a good start.
 
@@ -144,7 +144,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 14: January 18th, 2016
+### Day 14: January 18th, 2017
 
 **Today's Progress**: Managed to get the CameraFragment to open up when I trigger it with the button from BarcodeDetailsFragment. There still seems to be some cross overlay between the two fragments. I need to double check the CameraFragment class and make sure that there are no errors.
 
@@ -152,7 +152,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 15: January 19th, 2016
+### Day 15: January 19th, 2017
 
 **Today's Progress**: Made some changes to the CameraFragment in an attempt to get the camera to display. It's actually showing the correct fragment now, but the button is still in the CameraFragment for some reason.
 
@@ -160,7 +160,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 16: January 20th, 2016
+### Day 16: January 20th, 2017
 
 **Today's Progress**: Got things set up and started working on Chapter 5 of Cracking the Coding Interview. Not a whole lot of code written, but got a little bit down.
 
@@ -168,7 +168,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [CTCIProblems](https://github.com/SudoForkBomb/CTCIProblems)
 
-### Day 17: January 21th, 2016
+### Day 17: January 21th, 2017
 
 **Today's Progress**: Feel like I've pretty much finished solving 5.2. Just need to complete the rest of the code for that problem (Figure out a way to bail out if the number is repeating.)
 
@@ -176,7 +176,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [CTCIProblems](https://github.com/SudoForkBomb/CTCIProblems)
 
-### Day 18: January 22th, 2016
+### Day 18: January 22th, 2017
 
 **Today's Progress**: Not a whole lot. Spent more time trying to solve the problem than actually coding. The nap didn't exactly help either.
 
@@ -184,7 +184,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [CTCIProblems](https://github.com/SudoForkBomb/CTCIProblems)
 
-### Day 19: January 23th, 2016
+### Day 19: January 23th, 2017
 
 **Today's Progress**: Have the fragments working properly and talking to each other through the activity using the FragmentManger and FragmentTransaction. Now I need to work on getting the camera to work again.
  master
@@ -193,7 +193,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 20: January 24th, 2016
+### Day 20: January 24th, 2017
 
 **Today's Progress**: Tried troubleshooting the CameraFragment to get the camera image to show up, and can't figure out why. So I'm still having issues with it. Need to go back and look into the BarcodeScanner stuff.
 
@@ -201,7 +201,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 21: January 25th, 2016
+### Day 21: January 25th, 2017
 
 **Today's Progress**: Cleaned up the code a bit. No progress made with getting the camera working.
 
@@ -209,7 +209,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 22: January 26th, 2016
+### Day 22: January 26th, 2017
 
 **Today's Progress**: Got the CameraView working. I believe something was happening between the RetroFit task, and OnCreateView returning before it was done. This is further confirmed since my txtView is never updated  after scanning a barcode.
 
@@ -217,7 +217,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 23: January 27th, 2016
+### Day 23: January 27th, 2017
 
 **Today's Progress**: I looked up more about the Fragment lifecycle and decided to add onViewCreated method within CameraFragment. This takes place after onCreateView, so I added my code that takes in the barcode and sets the txtView within here. It successfully worked and I even added it so that it would set the text in txtView to the most recent barcode.
 
@@ -225,7 +225,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 24: January 28th, 2016
+### Day 24: January 28th, 2017
 
 **Today's Progress**: Added the new Fragment and Activity and started implementing the new order of process for the app.
 
@@ -233,7 +233,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 25: January 29th, 2016
+### Day 25: January 29th, 2017
 
 **Today's Progress**: Made a few more changes to the new fragment and making sure it fit and worked in the new order.
 
@@ -241,7 +241,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 26: January 30th, 2016
+### Day 26: January 30th, 2017
 
 **Today's Progress**: Changed the Details layout to output the information from the UPC. Worked on the details fragment starting once the camera has detected a barcode number.
 
@@ -249,10 +249,18 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 27: January 31th, 2016
+### Day 27: January 31th, 2017
 
 **Today's Progress**: Worked on getting things right with passing the Barcode Number. Testing some tomorrow.
 
 **Thoughts:** Tired. Need to start earlier and be more productive tomorrow.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 28: February 1st, 2017
+
+**Today's Progress**: Worked on passing the barcode number from the cameraFragment to the mainActivity to the DetailsFragment using an Intent. Messed around with the Retrofit code as well. App was crashing last test, and it seemed to be related to the Activity I was trying to call.
+
+**Thoughts:** May need to do some digging about going from one Activity to another Activity. 
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
