@@ -261,6 +261,16 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Today's Progress**: Worked on passing the barcode number from the cameraFragment to the mainActivity to the DetailsFragment using an Intent. Messed around with the Retrofit code as well. App was crashing last test, and it seemed to be related to the Activity I was trying to call.
 
-**Thoughts:** May need to do some digging about going from one Activity to another Activity. 
+**Thoughts:** May need to do some digging about going from one Activity to another Activity.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 29: February 3st, 2017
+
+**Today's Progress**:Made some changes to try and get the cameraFragment to pass the string to the detailsActivity. No luck.
+
+**Thoughts:** Not sure where I'm messing up. Error message is telling me I need to implement a method, which isn't right. Even tried it to just show it wasn't right. Need to test some more. Getting a little  burnt out on the app as well. Want to try and do more research and look into trying to do something else.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+Made some changes to try and get the cameraFragment to pass the string to the detailsActivity. No luck
