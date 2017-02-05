@@ -265,7 +265,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-### Day 29: February 3st, 2017
+### Day 29: February 3rd, 2017
 
 **Today's Progress**:Made some changes to try and get the cameraFragment to pass the string to the detailsActivity. No luck.
 
@@ -273,4 +273,10 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
 
-Made some changes to try and get the cameraFragment to pass the string to the detailsActivity. No luck
+### Day 30: February 4th, 2017
+
+**Today's Progress**:Trying changes to get the detailsActivity working.
+
+**Thoughts:** Tired of this app, stuck because I don't know how to do whatever is required next, and don't have a lot of time to go through a tutorial..
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
