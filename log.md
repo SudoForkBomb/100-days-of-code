@@ -280,3 +280,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Tired of this app, stuck because I don't know how to do whatever is required next, and don't have a lot of time to go through a tutorial..
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 31: February 5th, 2017
+
+**Today's Progress**:No new progress. More troubleshooting.
+
+**Thoughts:** Think I may try a new project tomorrow.
+
+**Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
