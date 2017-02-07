@@ -288,3 +288,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Think I may try a new project tomorrow.
 
 **Link to Work** [Barcode Scanner](https://github.com/SudoForkBomb/BarcodeScanner)
+
+### Day 32: February 6th, 2017
+
+**Today's Progress**: Took a break from my Barcode app to try and focus on learning web development from FreeCodeCamp. Spent a few hours working through the Front-End Certification.
+
+**Thoughts:** Kind of rethinking of my coding direction currently, so going to go through the FreeCodeCamp courses to learn and also just take a break from the Barcode up until I can find more time to spend going through those tutorials.
+
+**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
