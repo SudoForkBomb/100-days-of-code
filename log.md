@@ -295,4 +295,10 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Thoughts:** Kind of rethinking of my coding direction currently, so going to go through the FreeCodeCamp courses to learn and also just take a break from the Barcode up until I can find more time to spend going through those tutorials.
 
+### Day 33: February 7th, 2017
+
+**Today's Progress**: Finished up with the HTML and CSS section for the Front-End Certification.
+
+**Thoughts:** So far, it's been pretty simple to get into. Trying to not get distracted has been hard though, since it's kind of slow. I'm looking forward to getting started on the projects though.
+
 **Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
