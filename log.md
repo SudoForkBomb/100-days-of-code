@@ -297,8 +297,16 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 ### Day 33: February 7th, 2017
 
-**Today's Progress**: Finished up with the HTML and CSS section for the Front-End Certification.
+**Today's Progress**: Finished up with the "HTML and CSS" section for the Front-End Certification.
 
 **Thoughts:** So far, it's been pretty simple to get into. Trying to not get distracted has been hard though, since it's kind of slow. I'm looking forward to getting started on the projects though.
+
+**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
+
+### Day 34: February 8th, 2017
+
+**Today's Progress**: Finished up with the "Responsive Design with Bootstrap" section for the Front-End Certification.
+
+**Thoughts:** Excited I got to learn about Bootstrap today. Messed with it about a year ago, so I was glad to be able to use it again. A few more hours and I should be on the projcets.
 
 **Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
