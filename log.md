@@ -310,3 +310,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Excited I got to learn about Bootstrap today. Messed with it about a year ago, so I was glad to be able to use it again. A few more hours and I should be on the projcets.
 
 **Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
+
+### Day 35: February 9th, 2017
+
+**Today's Progress**: Finished up with the "jQuery" section for the Front-End Certification.
+
+**Thoughts:** Finally done with the tutorials and now onto the first project, Building a Tribute Page. No idea who I'm going to do it on, but I'll try to figure it out. I'm also going to try and attempt doing the projects outside of codepen.io. Even though it would make it a bit easier to use, I'd rather keep pushing to Github. Need to maintain those green squares. I'll also be spending some time this weekend working on "Cracking the Coding Interview."
+
+**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
