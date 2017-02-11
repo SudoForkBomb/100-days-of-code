@@ -318,3 +318,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Finally done with the tutorials and now onto the first project, Building a Tribute Page. No idea who I'm going to do it on, but I'll try to figure it out. I'm also going to try and attempt doing the projects outside of codepen.io. Even though it would make it a bit easier to use, I'd rather keep pushing to Github. Need to maintain those green squares. I'll also be spending some time this weekend working on "Cracking the Coding Interview."
 
 **Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
+
+### Day 36: February 10th, 2017
+
+**Today's Progress**: Got things set up for my Tribute Page project. Managed to get Bootstrap downloaded and loaded into the folder and ran a few tests to make sure it's set up properly.
+
+**Thoughts:** Going to have to do a lot of looking up as I work on this. Downside of blowing through the tutorials so quickly is the info didn't stick very well. I should be fine though, may just go a bit slower. Need to spend some time and figure out who I want to do my tribute for.
+
+**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
