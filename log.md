@@ -331,6 +331,14 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Today's Progress**: Not a whole lot. Trying to work on the design a bit.
 
-**Thoughts:** Things aren't showing up like I thiknk they should, so Bootstrap may not be set up properly. Need to go back through the tutorials and check things.
+**Thoughts:** Things aren't showing up like I think they should, so Bootstrap may not be set up properly. Need to go back through the tutorials and check things.
+
+**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
+
+### Day 38: February 12th, 2017
+
+**Today's Progress**: Fixed Boostrap setup. Tested out some styles.
+
+**Thoughts:** Been really slack lately. Need to spend more time reading and studying.
 
 **Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
