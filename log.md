@@ -325,7 +325,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Thoughts:** Going to have to do a lot of looking up as I work on this. Downside of blowing through the tutorials so quickly is the info didn't stick very well. I should be fine though, may just go a bit slower. Need to spend some time and figure out who I want to do my tribute for.
 
-**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
+**Link to Work** [TributePageFCC](https://github.com/SudoForkBomb/TributePageFCC)
 
 ### Day 37: February 11th, 2017
 
@@ -333,7 +333,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Thoughts:** Things aren't showing up like I think they should, so Bootstrap may not be set up properly. Need to go back through the tutorials and check things.
 
-**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
+**Link to Work** [TributePageFCC](https://www.freecodecamp.com/)
 
 ### Day 38: February 12th, 2017
 
@@ -341,4 +341,12 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Thoughts:** Been really slack lately. Need to spend more time reading and studying.
 
-**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
+**Link to Work** [TributePageFCC](https://www.freecodecamp.com/)
+
+### Day 39: February 13th, 2017
+
+**Today's Progress**: Worked on page organization and getting the main sections down. Tried to get things in their proper place on the page with the bootstrap classes. May try to see if I can organize them within the style section.
+
+**Thoughts:** Front-End right now seems to be a lot of repeating the same code, which makes it weird because I remember learning that if you are repeating code, you should make a method or class that you can call instead. So my first instinct is to find a way to put most of the stuff in the styles section and then use a class. However, it seems like there are just slight differences in each section, so it make it hard to create just a couple of style classes. Oh well. For now I'll focus on just getting things working, then dig into the code a bit to clean it up as I learn more.
+
+**Link to Work** [TributePageFCC](https://www.freecodecamp.com/)
