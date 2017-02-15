@@ -333,7 +333,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Thoughts:** Things aren't showing up like I think they should, so Bootstrap may not be set up properly. Need to go back through the tutorials and check things.
 
-**Link to Work** [TributePageFCC](https://www.freecodecamp.com/)
+**Link to Work** [TributePageFCC](https://github.com/SudoForkBomb/TributePageFCC)
 
 ### Day 38: February 12th, 2017
 
@@ -341,7 +341,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Thoughts:** Been really slack lately. Need to spend more time reading and studying.
 
-**Link to Work** [TributePageFCC](https://www.freecodecamp.com/)
+**Link to Work** [TributePageFCC](https://github.com/SudoForkBomb/TributePageFCC)
 
 ### Day 39: February 13th, 2017
 
@@ -349,4 +349,12 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Thoughts:** Front-End right now seems to be a lot of repeating the same code, which makes it weird because I remember learning that if you are repeating code, you should make a method or class that you can call instead. So my first instinct is to find a way to put most of the stuff in the styles section and then use a class. However, it seems like there are just slight differences in each section, so it make it hard to create just a couple of style classes. Oh well. For now I'll focus on just getting things working, then dig into the code a bit to clean it up as I learn more.
 
-**Link to Work** [TributePageFCC](https://www.freecodecamp.com/)
+**Link to Work** [TributePageFCC](https://github.com/SudoForkBomb/TributePageFCC)
+
+### Day 40: February 14th, 2017
+
+**Today's Progress**: Decided to dedicate my tribute page to Rick, from Rick and Morty. Added information about him to the page and worked on getting the image margins correct. Still need to work on getting the fonts and things set to the example page.
+
+**Thoughts:** Glad I got some rest today and was able to take my time working on this. Honestly felt a little weird it came together once I started putting the information in. Think I should be done with it tomorrow.
+
+**Link to Work** [TributePageFCC](https://github.com/SudoForkBomb/TributePageFCC)
