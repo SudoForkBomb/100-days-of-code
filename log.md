@@ -358,3 +358,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Glad I got some rest today and was able to take my time working on this. Honestly felt a little weird it came together once I started putting the information in. Think I should be done with it tomorrow.
 
 **Link to Work** [TributePageFCC](https://github.com/SudoForkBomb/TributePageFCC)
+
+### Day 41: February 15th, 2017
+
+**Today's Progress**: Worked on fine tuning the design to match that of the example. Still need to add a couple of links and some addtional text.
+
+**Thoughts:** Will plan to start the additional projects tomorrow or this weekend while I finish up with the tribute page.
+
+**Link to Work** [TributePageFCC](https://github.com/SudoForkBomb/TributePageFCC)
