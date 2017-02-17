@@ -366,3 +366,11 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Will plan to start the additional projects tomorrow or this weekend while I finish up with the tribute page.
 
 **Link to Work** [TributePageFCC](https://github.com/SudoForkBomb/TributePageFCC)
+
+### Day 42: February 16th, 2017
+
+**Today's Progress**: I think I'm done with my Tribute Page! And I think it looks pretty good. Once I was done, I looked at the source code for the example page and learned some commands that worked better than my hacked up attempts. (i.e Jumptron and Thumbnail classes vs using Wells.)
+
+**Thoughts:** Excited to move onto the next project. One weird thing is that I'm trying to paste my code into Codepen so I can submit it, but it's not displaying properly. It's like my picture isn't resizing to fit into the bootstrap columns. I also am a little confused why the example didn't need to use that many row classes, when mine seemed to need them in order for the text to appear on the proper lines. May troubleshoot it a bit later while I start on the next thing.
+
+**Link to Work** [TributePageFCC](https://github.com/SudoForkBomb/TributePageFCC)
