@@ -374,3 +374,27 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Excited to move onto the next project. One weird thing is that I'm trying to paste my code into Codepen so I can submit it, but it's not displaying properly. It's like my picture isn't resizing to fit into the bootstrap columns. I also am a little confused why the example didn't need to use that many row classes, when mine seemed to need them in order for the text to appear on the proper lines. May troubleshoot it a bit later while I start on the next thing.
 
 **Link to Work** [TributePageFCC](https://github.com/SudoForkBomb/TributePageFCC)
+
+### Day 43: February 17th, 2017
+
+**Today's Progress**: Started working through the JavaScript section on FreeCodeCamp.
+
+**Thoughts:** This tutorial is very similar to other coding tutorials and seems to be going through basic coding concepts that I have already learned. Will try to start my portfolio project this weekend.
+
+**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
+
+### Day 44: February 18th, 2017
+
+**Today's Progress**: More of the JavaScript section on FreeCodeCamp.
+
+**Thoughts:** Not much. Wish I had been more productive today, but I'll try to work on the portfolio site tomorrow.
+
+**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
+
+### Day 45: February 19th, 2017
+
+**Today's Progress**: Made some more progress through the JavaScript section. Also got started updating my portfolio site.
+
+**Thoughts:** The portfolio site seems it may be a pretty a long progress. Right now I don't have much of an idea on what I want to put on there. I guess that's the point though, and I'll show off the things I learn them? Do have a few cool ideas I'd like to try out on there. May need to see about getting a droplet to host my site on too, since I'm a little limited with hosting it through Github. I'll try to be more focused and productive this week.
+
+**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/) [Portfolio Project](https://github.com/SudoForkBomb/crtaylor123.github.io/) (http://www.chrisrtaylor.me/)
