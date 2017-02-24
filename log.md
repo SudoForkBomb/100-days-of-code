@@ -398,3 +398,35 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** The portfolio site seems it may be a pretty a long progress. Right now I don't have much of an idea on what I want to put on there. I guess that's the point though, and I'll show off the things I learn them? Do have a few cool ideas I'd like to try out on there. May need to see about getting a droplet to host my site on too, since I'm a little limited with hosting it through Github. I'll try to be more focused and productive this week.
 
 **Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/) [Portfolio Project](https://github.com/SudoForkBomb/crtaylor123.github.io/) (http://www.chrisrtaylor.me/)
+
+### Day 46: February 20th, 2017
+
+**Today's Progress**: Worked through some more of the JavaScript portion of FreeCodeCamp
+
+**Thoughts:** Needed an early night so I could get to work early, so I decided to just work through some of the JavaScript tutorials and I'll work on my portfolio site tomorrow.
+
+**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
+
+### Day 47: February 21st, 2017
+
+**Today's Progress**: Worked late tonight, so did FreeCodeCamp/JavaScript again.
+
+**Thoughts:** Extra time on portfolio site tomorrow
+
+**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
+
+### Day 48: February 22nd, 2017
+
+**Today's Progress**: Worked on the layout a bit, adding a title and some page navigation labels at the top.
+
+**Thoughts:**: Feeling a little like I don't have much artistic skills or sense of design while trying to design this page. I feel like I should look at some books or examples, but I don't think books can teach design? And I'm worried I'll just end up copying somebody else's design, and it won't be unique to me. I guess I just need to spend some extra time trying things out and looking around a bit.
+
+**Link to Work** [Portfolio Project](https://github.com/SudoForkBomb/crtaylor123.github.io/) (http://www.chrisrtaylor.me/)
+
+### Day 49: February 23rd, 2017
+
+**Today's Progress:** Worked on getting my boostrap rows and columns set up correctly. Not a whole lot else done.
+
+**Thoughts:** Don't seem to be making a lot of progress. I start tweaking things and it seems to take forever to fine tune it right. I'll try to spend more time this weekend on things.
+
+**Link to Work** [Portfolio Project](https://github.com/SudoForkBomb/crtaylor123.github.io/) (http://www.chrisrtaylor.me/)
