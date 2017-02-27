@@ -447,7 +447,7 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 
 **Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
 
-### Day 51: February 26th, 2017
+### Day 52: February 26th, 2017
 
 **Today's Progress:** Updated the layout some more.
 
