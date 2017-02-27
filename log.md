@@ -430,3 +430,27 @@ My only concern with my progress so far, is that I'm starting to feel like I'm l
 **Thoughts:** Don't seem to be making a lot of progress. I start tweaking things and it seems to take forever to fine tune it right. I'll try to spend more time this weekend on things.
 
 **Link to Work** [Portfolio Project](https://github.com/SudoForkBomb/crtaylor123.github.io/) (http://www.chrisrtaylor.me/)
+
+### Day 50: February 24th, 2017
+
+**Today's Progress:** Worked on the layout a bit.
+
+**Thoughts:**
+
+**Link to Work** [Portfolio Project](https://github.com/SudoForkBomb/crtaylor123.github.io/) (http://www.chrisrtaylor.me/)
+
+### Day 51: February 25th, 2017
+
+**Today's Progress:** Worked through FreeCodeCamp a little.
+
+**Thoughts:**
+
+**Link to Work** [FreeCodeCamp](https://www.freecodecamp.com/)
+
+### Day 51: February 26th, 2017
+
+**Today's Progress:** Updated the layout some more.
+
+**Thoughts:**
+
+**Link to Work** [Portfolio Project](https://github.com/SudoForkBomb/crtaylor123.github.io/) (http://www.chrisrtaylor.me/)
